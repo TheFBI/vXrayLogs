@@ -1,0 +1,9 @@
+name: XrayLogger
+author: TheFBI
+version: 1.0
+main: me.thefbi.XrayLog
+description: Xray Logger
+permissions:
+  xraylog.show:
+    description: Show notifications
+    default: op
